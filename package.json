@@ -1,0 +1,13 @@
+{
+  "name": "node-xlsx",
+  "version": "0.0.1",
+  "description": "XLSX.js wrapper.",
+  "dependencies": {
+    "node-zip": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
+}
