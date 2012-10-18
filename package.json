@@ -1,13 +1,15 @@
 {
   "name": "node-xlsx",
   "version": "0.0.1",
-  "description": "XLSX.js wrapper.",
+  "description": "XLSX files ported from XSLX.js",
   "dependencies": {
     "node-zip": "~0.0.2"
   },
+  "dependencies": {},
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
   },
-  "license": "BSD"
+  "license": "MIT"
 }
