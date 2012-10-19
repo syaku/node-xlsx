@@ -5,7 +5,6 @@
   "dependencies": {
     "node-zip": "~0.0.2"
   },
-  "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
